@@ -1,4 +1,4 @@
-# ALS Research Notes — 2025-01-29
+# ALS Research Notes — 2025-05-07
 
 ## ALSFRS-R
 Score 0-48 (48=full function). 12 domains incl. speech, walking, respiration.
