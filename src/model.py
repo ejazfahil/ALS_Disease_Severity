@@ -1,4 +1,4 @@
-"""ALS model. 2025-03-26"""
+"""ALS model. 2025-06-12"""
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.model_selection import StratifiedKFold, cross_val_score
 
