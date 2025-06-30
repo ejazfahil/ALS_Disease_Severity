@@ -1,4 +1,4 @@
-# ALS Disease Severity — 2025-03-26
+# ALS Disease Severity — 2025-06-30
 
 ML prediction of ALS severity from clinical/biomarker data.
 
