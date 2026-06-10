@@ -1,6 +1,6 @@
 # ALS Disease Severity
 
-**Predicting amyotropic lateral sclerosis (ALS) disease severity from clinical and biomarker data.**
+**Predicting amyotrophic lateral sclerosis (ALS) disease severity from clinical and biomarker data.**
 
 ![Language](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
@@ -16,7 +16,7 @@
 
 ## Overview
 
-Amyotropic lateral sclerosis (ALS) is a progressive neurodegenerative disease whose
+Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease whose
 clinical course varies widely between patients. Quantifying and predicting **disease
 severity** is valuable for trial stratification, prognosis, and care planning.
 
